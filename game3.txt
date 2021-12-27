@@ -1,0 +1,3 @@
+Initial game state: player hand: 3, 4, (total value = 7) dealer hand: 10, 4, (total value = 14)
+Final game state: player hand: 3, 4, 8, 8, (total value = 23) dealer hand: 10, 4, 1, 10, (total value = 25)
+Dealer wins.
